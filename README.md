@@ -1,2 +1,2 @@
 # android
- Página simples desenvolvida com apenas HTML e CSS para praticar responsividade sem media queries, flexbox ou grid layout
+ Simples página desenvolvida apenas com HTML e CSS para praticar responsividade sem media queries, flexbox ou grid layout
